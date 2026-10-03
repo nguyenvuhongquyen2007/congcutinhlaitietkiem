@@ -11,7 +11,7 @@ st.set_page_config(
 # =========================
 # TIÊU ĐỀ
 # =========================
-st.title("💰 APP CÔNG CỤ TÍNH LÃI TIỀN GỬI TIẾT KIỆM_ NGUYỄN VŨ HỒNG QUYÊN ✨🌟💫")
+st.title("💰 ỨNG DỤNG TÍNH LÃI TIỀN GỬI TIẾT KIỆM_ NGUYỄN VŨ HỒNG QUYÊN ✨🌟💫")
 st.write("Nhập thông tin khoản tiền gửi để tính tiền lãi.")
 
 # =========================
