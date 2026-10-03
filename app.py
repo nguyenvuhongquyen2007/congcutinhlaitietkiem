@@ -4,7 +4,7 @@ import streamlit as st
 # CẤU HÌNH TRANG
 # =========================
 st.set_page_config(
-    page_title="Tính lãi tiền gửi tiết kiệm",
+    page_title="app công cụ tính lãi tiền gửi tiết kiệm_ Nguyễn Vũ Hồng Quyên",
     page_icon="💰",
     layout="centered"
 )
@@ -12,7 +12,7 @@ st.set_page_config(
 # =========================
 # TIÊU ĐỀ
 # =========================
-st.title("💰 TÍNH LÃI TIỀN GỬI TIẾT KIỆM_NGUYỄN VŨ HỒNG QUYÊN")
+st.title("💰 TÍNH LÃI TIỀN GỬI TIẾT KIỆm")
 st.write("Nhập thông tin khoản tiền gửi để tính tiền lãi.")
 
 # =========================
